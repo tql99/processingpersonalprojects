@@ -1,0 +1,8 @@
+// Ideas, for a future update of BLOBCHASER.
+
+- Use textWidth() to align text better.
+- Use distance() instead of mouseX & mouseY for better hit detection.
+- Add function clutchTime(): In the last x seconds:
+--- Rapidly change background color.
+--- Increase frameRate() so that target moves faster.
+--- Increase the score for each hit.
